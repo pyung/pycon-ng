@@ -9,7 +9,7 @@ The project uses `python3`
 
 2. clone the repo inside this folder just created 
     ```
-    $ git clone https://github.com/pyung/pyconng.git pycon
+    $ git clone https://github.com/pyung/pycon-ng.git pycon
     # ensure you switch to the develop branch
     $ git checkout develop
     ```
