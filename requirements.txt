@@ -4,4 +4,4 @@ django-debug-toolbar==1.5
 gunicorn
 whitenoise==3.0b1
 django-extensions
-django-anymail==0.8
+django-anymail==1.2.1
